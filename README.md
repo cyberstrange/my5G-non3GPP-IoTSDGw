@@ -12,19 +12,47 @@
 ----
 <!-- TODO: add here general description of the project -->
 ----
-# Description
+** Description
 LoRaWan IoT network integration project via non-3GPP access with 5G Network core
 
 <!-- TODO: add here steps to install the project -->
 
 ----
-# Instalation
+## Installation
 
-## Recommended environment
+**Requirements**
 
-## Requirements
+The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM). System requirements:
+* CPU type: x86-64 (specific model and number of cores only affect performance)
+* RAM: 4 GB
+* Disk space: 40 GB
+* Ubuntu 18.04 LTS
 
-## RAN 
+**Recommended environment**
+
+**RAN**
+
+**Steps**
+
+Install python-minimal:
+```
+sudo apt update && apt install python-minimal -y
+```
+
+Install git:
+```
+sudo apt -y install git
+```
+
+Clone this repository:
+```
+git clone https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp1.git
+```
+
+Install Ansible:
+```
+sudo apt -y install ansible
+```
 
 ----
 # Check
