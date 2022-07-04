@@ -17,7 +17,7 @@
 <!-- TODO: add here steps to install the project -->
 
 ----
-# Instalação
+# Instalation
 
 ## Recommended environment
 
@@ -30,7 +30,7 @@
 
 <!-- TODO: add here steps to test the project --->
 
-# Mais Informações
+# More Information
   O projeto é composto de três cenários de implementação e execução.
   Cenário 1 - Rede LoRaWAN padrão (fim-a-fim), com execução isolada do IoTSDGw Forwarder, ou seja, sem núcleo 5G.
   Cenário 2 - Integração única de IoTSDGw, entre o gateway e servidor de rede via acesso não confiável non-3GPP (modelo completo).
