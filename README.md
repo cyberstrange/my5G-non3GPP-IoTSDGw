@@ -13,7 +13,7 @@
 <!-- TODO: add here general description of the project -->
 ----
 # Description
-Projeto de integração de rede IoT LoRaWan via acesso non-3GPP com o núcleo da Rede 5G
+LoRaWan IoT network integration project via non-3GPP access with 5G Network core
 
 <!-- TODO: add here steps to install the project -->
 
