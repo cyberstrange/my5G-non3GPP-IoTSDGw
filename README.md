@@ -21,14 +21,39 @@ LoRaWan IoT network integration project via non-3GPP access with 5G Network core
 ## Installation
 
 **Requirements**
+* The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM).
+System requirements:
+  * CPU type: x86-64 (specific model and number of cores only affect performance)
+  * RAM: 4 GB
+  * Disk space: 40 GB
+  * Ubuntu 18.04 LTS
 
-The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM). System requirements:
-* CPU type: x86-64 (specific model and number of cores only affect performance)
-* RAM: 4 GB
-* Disk space: 40 GB
-* Ubuntu 18.04 LTS
+* Hardware minimum
+  * CPU: Intel i5 processor
+  * RAM: 4GB
+  * Hard drive: 40G
+  * NIC card: 1Gbps ethernet card
+
+* Hardware recommended
+  * CPU: Intel i7 processor
+  * RAM: 8GB
+  * Hard drive: 160G
+  * NIC card: 10Gbps ethernet card
 
 **Recommended environment**
+* Software (minimum) You can use actual versions like Ubuntu 20.04
+   * OS: Ubuntu 18.04
+   * gcc 7.3.0
+   * Go 1.14.4 linux/amd64
+   * kernel version 5.0.0-23-generic or higher (for UPF)
+
+    Notes:
+    - You can use uname -r to check your current kernel version.
+    - Also tested on Ubuntu 20.04 with 5.4.0-53-generic kernel version.
+    - You can use go version to check your current Go version.
+
+
+
 
 **Steps**
 
