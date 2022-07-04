@@ -1,4 +1,4 @@
-# my5G
+# my5G-non3GPP-IoTSDGw
 
 <!-- TODO: replace the repo name below `template` with your repo name -->
 ![GitHub](https://img.shields.io/github/license/my5G/template?color=blue) 
@@ -12,7 +12,8 @@
 ----
 <!-- TODO: add here general description of the project -->
 ----
-# Descrição
+# Description
+Projeto de integração de rede IoT LoRaWan via acesso non-3GPP com o núcleo da Rede 5G
 
 <!-- TODO: add here steps to install the project -->
 
