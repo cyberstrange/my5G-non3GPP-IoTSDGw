@@ -12,7 +12,7 @@
 ----
 <!-- TODO: add here general description of the project -->
 ----
-**Description**
+## Description
 LoRaWan IoT network integration project via non-3GPP access with 5G Network core
 
 <!-- TODO: add here steps to install the project -->
@@ -30,8 +30,6 @@ The installation can be done directly over the host operating system (OS) or ins
 
 **Recommended environment**
 
-**RAN**
-
 **Steps**
 
 Install python-minimal:
@@ -46,7 +44,7 @@ sudo apt -y install git
 
 Clone this repository:
 ```
-git clone https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp1.git
+git clone https://github.com/my5G/my5G-non3GPP-IoTSDGw.git
 ```
 
 Install Ansible:
