@@ -12,7 +12,7 @@
 ----
 <!-- TODO: add here general description of the project -->
 ----
-** Description
+**Description**
 LoRaWan IoT network integration project via non-3GPP access with 5G Network core
 
 <!-- TODO: add here steps to install the project -->
@@ -55,18 +55,18 @@ sudo apt -y install ansible
 ```
 
 ----
-# Check
+**Check**
 
 <!-- TODO: add here steps to test the project --->
 
-# More Information
+**More Information**
 
 <!-- TODO: add here other comments that may be important (Optional) !-->
 
-## Questions
+**Questions**
  
 For questions, support, interacting with community members or share new ideas, use the [Discussions](../../discussions). If you want to report a bug or request a new feature, create an [issue](../../issues/new). Please, before creating a new issue, make sure it's not duplicating another existing one.
 
-## Acknowledgments
+**Acknowledgments**
 
 <!-- TODO: add here acknowledges to other projects used or external contributors -->
