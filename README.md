@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/my5G/template)
 ![GitHub contributors](https://img.shields.io/github/contributors/my5G/template)
 
-<img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
+<img width="12%" src="static/img/my5g-logo.png" alt="my5g-core"/>
 
 ----
 <!-- TODO: add here general description of the project -->
@@ -51,9 +51,6 @@ System requirements:
     - You can use uname -r to check your current kernel version.
     - Also tested on Ubuntu 20.04 with 5.4.0-53-generic kernel version.
     - You can use go version to check your current Go version.
-
-
-
 
 **Steps**
 
