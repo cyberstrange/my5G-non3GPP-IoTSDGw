@@ -32,10 +32,6 @@ Projeto de integração de rede IoT LoRaWan via acesso non-3GPP com o núcleo da
 <!-- TODO: add here steps to test the project --->
 
 # More Information
-  O projeto é composto de três cenários de implementação e execução.
-  Cenário 1 - Rede LoRaWAN padrão (fim-a-fim), com execução isolada do IoTSDGw Forwarder, ou seja, sem núcleo 5G.
-  Cenário 2 - Integração única de IoTSDGw, entre o gateway e servidor de rede via acesso não confiável non-3GPP (modelo completo).
-  Cenário 3. Integração com múltiplos IoTSDGws e simultâneas, com vista acompanhar a escalabilidade.
 
 <!-- TODO: add here other comments that may be important (Optional) !-->
 
